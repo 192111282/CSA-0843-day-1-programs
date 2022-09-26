@@ -1,5 +1,5 @@
-fresh=float(input("enter the number of fresh leaves"))
-old=float(input("enter the number of day old leaves"))
+fresh=float(input("enter the number of fresh loaves"))
+old=float(input("enter the number of day old loaves"))
 amt_of_fresh=fresh*185.00
 amt_of_old=old*185*.6
 print("regular_price=185.00")
