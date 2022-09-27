@@ -1,5 +1,5 @@
-# CSA-0843-day
-1.programs
+# CSA-0843-day 1
+1.bakery
 2.isomorphic
 3.non negative
 4.staircase
