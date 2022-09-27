@@ -18,11 +18,3 @@ def stringIsomorphic(string1, string2):
 string1 = input("Enter the string 1: ")
 string2 = input("Enter the string 2: ")
 print(stringIsomorphic(string1, string2))
-
-
-
-
-OUTPUT
-Enter the string 1: apple
-Enter the string 2: sppfd
-True
