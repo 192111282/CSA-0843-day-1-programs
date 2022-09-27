@@ -5,10 +5,3 @@ def stair(n):
         return stair(n-1) + stair(n-2)
 s=int(input("n="))
 print("Number of possible ways for climbing the stair cases",stair(s+1))
-  
-  
-  
-  OYTPUT:
-  
-  n=4
-Number of possible ways for climbing the stair cases 5
