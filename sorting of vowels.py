@@ -9,11 +9,3 @@ def countVowelStrings(n):
     return countstrings(n,0)
 n=int(input("enter the number"));
 print(countVowelStrings(n))
-
-
-
-OUTPUT
-
-
-enter the number1
-5
