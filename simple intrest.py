@@ -1,0 +1,5 @@
+amount=int(input("enter the amount"))
+rate=int(input("enter the rate"))
+time=int(input("enter the time"))
+simple_intrest=(amount*rate*time/100)
+print(simple_intrest)
